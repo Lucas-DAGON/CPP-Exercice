@@ -42,6 +42,7 @@
 build/
 Build/
 build-*/
+x64/
 
 # CMake generated files
 CMakeFiles/
@@ -66,3 +67,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual studio code
+.vscode/
+.vs
